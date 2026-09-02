@@ -2,6 +2,6 @@ name = "lxw-cft"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
-#[[kv_namespaces]]
+[[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
 id = "bf0e561896bb41499ad2ba8e1cb879a3"				#KV数据库id
